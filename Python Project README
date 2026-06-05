@@ -1,0 +1,14 @@
+
+---
+
+# 4. Python Project README
+
+```md
+# Python Utility
+
+A Python tool for automation and productivity.
+
+## Installation
+
+```bash
+pip install -r requirements.txt
