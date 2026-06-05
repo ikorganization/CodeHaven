@@ -1,0 +1,25 @@
+
+---
+
+# 3. API Project README
+
+```md
+# REST API
+
+A RESTful API service.
+
+## Endpoints
+
+### GET /users
+
+Returns all users.
+
+### POST /users
+
+Creates a new user.
+
+## Installation
+
+```bash
+npm install
+npm start
